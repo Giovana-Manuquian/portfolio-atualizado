@@ -25,10 +25,10 @@ const Portfolio = () => {
       title: "Sistema de Gestão (Freelance)",
       category: "fullstack",
       tech: ["Java", "Spring Boot", "React", "PostgreSQL"],
-      description: "Desenvolvimento de funcionalidades para um sistema real. Foco na criação de APIs RESTful, CRUDs e integração com front-end.",
-      architecture: "Modelagem MVC, autenticação via JWT, Front-end consumindo API via Axios. Uso de DTOs para comunicação segura.",
-      linkRep: "#", // Coloque o link do repositório
-      linkLive: "#" // Coloque o link do projeto online
+      description: "Desenvolvimento de funcionalidades para um sistema de gestão real. Foco na criação de APIs RESTful, CRUDs completos e integração fluida entre o front-end e o banco de dados.",
+      architecture: "Modelagem MVC para organização do código, autenticação segura via JWT, Front-end React consumindo API via Axios e uso de DTOs para garantir uma comunicação eficiente e protegida.",
+      linkRep: "https://github.com/Giovana-Manuquian/paynet-front",
+      linkLive: "#" 
     },
     {
       id: 2,
@@ -42,12 +42,12 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "API de E-commerce",
+      title: "Automação & Web Scraping",
       category: "backend",
-      tech: ["Java", "Spring Boot", "Hibernate", "SQL"],
-      description: "API robusta para gerenciar produtos, pedidos e usuários, simulando um sistema de comércio eletrônico.",
-      architecture: "Arquitetura em camadas (Controller, Service, Repository), Mapeamento Objeto-Relacional (JPA/Hibernate), DTOs para transferência de dados e tratamento de exceções global.",
-      linkRep: "#",
+      tech: ["Python", "BeautifulSoup", "Requests", "Data Handling"],
+      description: "Sistema automatizado para extração e processamento de dados da web, focado em coleta eficiente de informações estruturadas.",
+      architecture: "Lógica de extração de dados via scraping, tratamento de requisições assíncronas, manipulação de DOM e exportação de dados estruturados para análise.",
+      linkRep: "https://github.com/Giovana-Manuquian/aum_scraper-2-versao",
       linkLive: "#"
     }
   ];
