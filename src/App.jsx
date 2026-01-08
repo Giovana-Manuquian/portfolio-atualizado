@@ -37,7 +37,7 @@ const Portfolio = () => {
       tech: ["JavaScript", "HTML", "CSS", "Lógica"],
       description: "Jogo interativo focado em lógica de programação e manipulação de estado complexo.",
       architecture: "Uso de máquinas de estado para gerenciar as escolhas do jogador e renderização condicional do DOM (para o React: uso de `useState` com estruturas aninhadas).",
-      linkRep: "https://github.com/Giovana-Manuquian", 
+      linkRep: "https://github.com/Giovana-Manuquian/rpg-textual", 
       linkLive: "#"
     },
     {
