@@ -10,7 +10,7 @@ const Portfolio = () => {
   const personalInfo = {
     name: "Giovana Manuquian",
     role: "Desenvolvedora Full Stack | Java & React",
-    about: "Desenvolvedora com 4 anos de estudos intensivos e base sólida em arquitetura de sistemas. Superando o desafio da primeira oportunidade com foco em código limpo, modelagem de dados e soluções escaláveis.",
+    about: "Desenvolvedora com 4 anos de estudos intensivos e base sólida em arquitetura de sistemas. Com foco em código limpo, modelagem de dados e soluções escaláveis.",
     email: "gmanuquian@gmail.com",
     linkedin: "https://www.linkedin.com/in/giovana-manuquian-a4829a188/",
     github: "https://github.com/Giovana-Manuquian"
