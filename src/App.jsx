@@ -199,7 +199,6 @@ const Portfolio = () => {
         <div className="container mx-auto px-6 text-center">
           <h3 className="text-3xl font-bold mb-6">Pronta para integrar sua equipe</h3>
           <p className="text-slate-400 mb-10 max-w-xl mx-auto">
-            Estou em busca ativa da minha primeira oportunidade oficial. 
             Tenho a base, a vontade e a lógica necessária para resolver problemas reais.
           </p>
           
